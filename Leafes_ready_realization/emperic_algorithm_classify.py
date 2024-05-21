@@ -1,5 +1,4 @@
 # Segmentation with my idea
-from IPython.display import Image, display
 import cv2
 import os
 import numpy as np
